@@ -21,5 +21,5 @@ This is a Weather App that provides real-time weather updates for any location. 
 ## 📂 Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/satya94406/Weather-App
+   git clone https://github.com/satya94406/weather
 
